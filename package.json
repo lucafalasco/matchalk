@@ -1,0 +1,41 @@
+{
+  "name": "matchalk",
+  "displayName": "matchalk",
+  "description": "matchalk is a dark, earthy theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "lucafalasco",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#D1DED3",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "matchalk",
+    "matcha",
+    "theme",
+    "color-theme",
+    "dark",
+    "green",
+    "pastel"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "matchalk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matchalk-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucafalasco/matchalk.git"
+  },
+  "homepage": "https://github.com/lucafalasco/matchalk/blob/master/README.md"
+}
