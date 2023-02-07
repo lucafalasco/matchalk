@@ -14,7 +14,7 @@
     "badge.foreground": "#304e37",
     "button.background": "#7eb08ada",
     "button.foreground": "#1c2427",
-    "button.hoverBackground": "#d2b48c",
+    "button.hoverBackground": "#7eb08a",
     "checkbox.background": "#7eb08a50",
     "checkbox.foreground": "#1c2427",
     "debugIcon.breakpointForeground": "#ff678c",
@@ -173,12 +173,12 @@
     "sideBar.background": "#323E45",
     "sideBarSectionHeader.background": "#273136",
     "statusBar.background": "#7eb08ada",
+    "statusBar.foreground": "#273136",
     "statusBar.debuggingBackground": "#7eb08ada",
     "statusBar.debuggingForeground": "#273136",
-    "statusBar.foreground": "#273136",
-    "statusBar.noFolderBackground": "#d2b48c",
+    "statusBar.noFolderBackground": "#7eb08ada",
     "statusBar.noFolderForeground": "#273136",
-    "statusBarItem.hoverBackground": "#7eb08a",
+    "statusBarItem.hoverBackground": "#304e3730",
     "statusBarItem.prominentBackground": "#304e37",
     "statusBarItem.prominentForeground": "#273136",
     "statusBarItem.prominentHoverBackground": "#7eb08a",
@@ -350,7 +350,7 @@
     {
       "scope": ["punctuation", "meta.brace"],
       "settings": {
-        "foreground": "#304e37"
+        "foreground": "#7ea4b0"
       }
     },
     {
