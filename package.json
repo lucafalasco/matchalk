@@ -2,7 +2,7 @@
   "name": "matchalk",
   "displayName": "Matchalk",
   "description": "Matchalk is a dark, earthy theme for VS Code",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "lucafalasco",
   "icon": "assets/icon.png",
   "galleryBanner": {
